@@ -3,9 +3,10 @@
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:label="frontend"
+        android:label="Coleccion Barbie"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

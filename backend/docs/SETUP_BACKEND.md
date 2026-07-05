@@ -38,4 +38,4 @@ python manage.py runserver 0.0.0.0:8000
 ```
 
 > [!NOTE]
-> La IP local (ej. `192.168.1.224`) de la computadora donde corre este servidor se utilizará en el frontend para realizar las peticiones a esta API.
+> La IP local (ej. `192.168.x.x`) de la computadora donde corre este servidor se utilizará en el frontend para realizar las peticiones a esta API.
